@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# macOS
+.DS_Store
+
+# Environment files
+.env
+.env.local
+
+# IDE settings
+.claude/
+
+# Node modules (for GUI)
+node_modules/
