@@ -14,7 +14,7 @@ Developed by [Atahan Uz](https://www.linkedin.com/in/atahan-uz/) and [Gizem Yıl
 
 - Python 3.x
 - Node.js and npm
-- Docker
+- Docker (optional)
 
 ## Installation
 
