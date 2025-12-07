@@ -68,7 +68,7 @@ In the training_test_codes folder, you can find the scripts used to train the mo
 
 ## Credits
 
-Prof. Tunga Güngör for his help during the project
+Prof. Tunga Güngör for his guidance during the project
 
 [Boğaziçi University TULAP](https://tulap.cmpe.boun.edu.tr) for the morphological analyser
 
