@@ -2,7 +2,7 @@
 
 A web application for Turkish text preprocessing including tokenization, stemming, normalization, and stopword removal.
 
-Developed by [Atahan Uz](https://www.linkedin.com/in/atahan-uz/) and [Gizem Yılmaz](https://www.linkedin.com/in/gizem7/)
+Developed by [Atahan Uz](https://www.linkedin.com/in/atahan-uz/) & [Gizem Yılmaz](https://www.linkedin.com/in/gizem7/)
 
 ![Screenshot](image.png)
 
